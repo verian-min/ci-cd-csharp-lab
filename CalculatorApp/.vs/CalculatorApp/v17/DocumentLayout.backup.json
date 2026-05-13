@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\ci-cd-csharp-lab\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB2F9D89-B990-4167-BB00-B09CBF449CCD}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|d:\\github\\ci-cd-csharp-lab\\calculatorapp\\calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB2F9D89-B990-4167-BB00-B09CBF449CCD}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC165CA8-1B2D-45B9-BE70-6096FBD1A659}|CalculatorApp\\CalculatorApp.csproj|d:\\github\\ci-cd-csharp-lab\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC165CA8-1B2D-45B9-BE70-6096FBD1A659}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2F9D89-B990-4167-BB00-B09CBF449CCD}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|d:\\github\\ci-cd-csharp-lab\\calculatorapp\\calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2F9D89-B990-4167-BB00-B09CBF449CCD}|CalculatorApp.Tests\\CalculatorApp.Tests.csproj|solutionrelative:calculatorapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC165CA8-1B2D-45B9-BE70-6096FBD1A659}|CalculatorApp\\CalculatorApp.csproj|d:\\github\\ci-cd-csharp-lab\\calculatorapp\\calculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalculatorTests.cs",
               "DocumentMoniker": "D:\\GitHub\\ci-cd-csharp-lab\\CalculatorApp\\CalculatorApp.Tests\\CalculatorTests.cs",
               "RelativeDocumentMoniker": "CalculatorApp.Tests\\CalculatorTests.cs",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "CalculatorApp.Tests\\CalculatorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:59:06.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T16:59:06.856Z"
             },
             {
               "$type": "Document",
@@ -63,18 +62,17 @@
               "RelativeToolTip": "CalculatorApp\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:50:53.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T16:50:53.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\ci-cd-csharp-lab\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
               "ToolTip": "D:\\GitHub\\ci-cd-csharp-lab\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeToolTip": "CalculatorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T16:49:27.631Z",
               "EditorCaption": ""

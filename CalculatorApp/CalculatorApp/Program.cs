@@ -6,7 +6,7 @@
         {
             Calculator calculator = new Calculator();
             Console.WriteLine(calculator.Add(2, 3));
-            Console.WriteLine("Всё работает?");
+            Console.WriteLine("Всё работает??");
         }
     }
 }

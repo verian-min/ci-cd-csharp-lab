@@ -50,8 +50,7 @@
               "RelativeToolTip": "CalculatorApp.Tests\\CalculatorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:59:06.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T16:59:06.856Z"
             },
             {
               "$type": "Document",
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
               "ToolTip": "D:\\GitHub\\ci-cd-csharp-lab\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeToolTip": "CalculatorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T16:49:27.631Z",
               "EditorCaption": ""
