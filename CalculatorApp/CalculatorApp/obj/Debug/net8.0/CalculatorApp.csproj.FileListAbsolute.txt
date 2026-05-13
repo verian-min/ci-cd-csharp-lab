@@ -1,0 +1,15 @@
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+D:\GitHub\ci-cd-csharp-lab\CalculatorApp\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
