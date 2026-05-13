@@ -9,6 +9,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./CalculatorApp
 
     steps:
     - uses: actions/checkout@v3
@@ -16,7 +19,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 8.0.x
+        dotnet-version: '8.0.x'
 
     - name: Restore dependencies
       run: dotnet restore
